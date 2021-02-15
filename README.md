@@ -1,5 +1,5 @@
 <h1 align="center">Hi dear 👋, I'm Ruan Gomes</h1>
-<h3 align="center">A Web Developer student</h3>
+<h3 align="center">A Computer Science student</h3>
 
 - 💬 Ask me about **JavaScript, HTML, CSS**
 
