@@ -1,7 +1,7 @@
 <h1 align="center">Hi dear 👋, I'm Ruan Gomes</h1>
 <h3 align="center">A Computer Science student</h3>
 
-- 💬 Ask me about **JavaScript, Nodejs**
+- 💬 Ask me about **Nodejs**
 
 - 📫 How to reach me **ruangomes@edu.unifor.br**
 <!--
