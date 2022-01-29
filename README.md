@@ -4,8 +4,7 @@
 
 <div align="center">
   <a href="https://github.com/RuanGoms">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RuanGoms&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true"/><br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuanGoms&layout=compact&langs_count=7&theme=apprentice"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RuanGoms&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuanGoms&layout=compact&langs_count=7&theme=apprentice"/>
 </div>
   
 <div style="display: inline_block"><br>
