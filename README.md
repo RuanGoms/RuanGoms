@@ -1,9 +1,7 @@
-<h1 align="center">Hi dear 👋, I'm Ruan Gomes</h1>
-<h2 align="center">Nodejs Back-end Developer</h2>
-
-
 <div align="center">
+    <h1>Hi dear 👋, I'm Ruan Gomes. Nodejs Back-end Developer</h1>
   <a href="https://github.com/RuanGoms">
+    
   <img  display: inline-block height="180em" src="https://github-readme-stats.vercel.app/api?username=RuanGoms&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true"/>
     <img  display: inline-block height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuanGoms&layout=compact&langs_count=7&theme=apprentice"/>
 </div>
