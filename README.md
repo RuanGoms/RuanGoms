@@ -1,14 +1,10 @@
-<div align="center">
-    <h1>Hi dear 👋, I'm Ruan Gomes.<br>Nodejs Developer</h1>
-  <a href="https://github.com/RuanGoms">
-    
-  <img  display: inline-block height="180em" src="https://github-readme-stats.vercel.app/api?username=RuanGoms&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuanGoms&layout=Demo&theme=apprentice">
+<div>
+    <h1>Hello 👋🏻 I'm Ruan Gomes</h1>
 </div>
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
+<div>
+    <p>Studing Computer Engineering at <a href="https://www.ulusofona.pt/">Universidade Lusófona </a></p>
+    <p>Node.js backend developer</p>
+    <br><br>
+    <p>Linkedin: <a href="https://www.linkedin.com/in/ruangomesti/">@RuanGomes</a></p>
 </div>
-    </div>
